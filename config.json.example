@@ -1,0 +1,13 @@
+{
+    "input_path": "input.png",
+    "output_path": "output.png",
+    "tiles_path": "images",
+    "tile_size": 8,
+    "target_tile_size": 128,
+    "source_image_alpha": 0.25,
+    "brightness_weight": 1.0,
+    "color_weight": 2.0,
+    "gradient_weight": 0.25,
+    "candidates_num" : 20,
+    "uniqueness_coefficient": 3.0
+}
